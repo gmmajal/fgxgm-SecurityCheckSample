@@ -1,4 +1,4 @@
-FROM node:22.9.0-alpine
+FROM node:22.18.0-alpine
 
 RUN npm install -g npm@latest -g
 
